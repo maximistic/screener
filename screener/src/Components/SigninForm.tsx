@@ -33,7 +33,7 @@ const SigninForm: React.FC<SigninFormProps> = ({ onSignUpClick }) => {
             <path d="M10.894 2.553a1 1 0 00-1.788 0l-7 14a1 1 0 001.169 1.409l5-1.429A1 1 0 009 15.571V11a1 1 0 112 0v4.571a1 1 0 00.725.962l5 1.428a1 1 0 001.17-1.408l-7-14z" />
           </svg>
         </div>
-        <h2 className="text-2xl font-semibold mb-4">XCreate</h2>
+        <h2 className="text-2xl font-semibold mb-4">Cxtalyst</h2>
         <p className="text-center mb-8">One Place, All Investments!</p>
         <button onClick={onSignUpClick} className="bg-white text-blue-600 px-6 py-2 rounded-full font-semibold hover:bg-gray-100 transition duration-300">
           SIGN UP
